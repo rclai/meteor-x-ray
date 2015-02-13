@@ -32,6 +32,10 @@ xray('http://google.com')
 var title = future.wait();
 ```
 
+# Future
+
+Add a synchronous wrapper around it to do blocking calls.
+
 # License
 
 MIT
