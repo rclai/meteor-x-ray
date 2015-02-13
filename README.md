@@ -12,10 +12,7 @@ To use the `xray` variable has been exposed globally on the server.
 
 Go [here](https://github.com/lapwinglabs/x-ray) for usage instructions.
 
-There is no need for a synchronous wrapper because the library itself already has [synchronous capabilities](https://github.com/lapwinglabs/x-ray#xrayrunfunctionoptional-fn), which is nice.
-
-
-If you need more blocking functionality for the more complex use cases just use the Future library like this:
+If you need blocking functionality, use the Future library, which Meteor already installs by default, like this:
 
 ```js
 // The future library is loadable already
