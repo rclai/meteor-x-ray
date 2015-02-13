@@ -1,0 +1,1 @@
+xray = Npm.require('x-ray');
