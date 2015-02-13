@@ -4,7 +4,7 @@ Meteor wrapper for the [NPM x-ray web scraper](https://github.com/lapwinglabs/x-
 
 # Installation
 
-`meteor add lai:meteor-x-ray`
+`meteor add lai:meteor-xray`
 
 # Usage
 
