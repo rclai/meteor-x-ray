@@ -1,6 +1,6 @@
 Package.describe({
   name: 'lai:meteor-xray',
-  version: '1.0.3',
+  version: '1.0.5',
   // Brief, one-line summary of the package.
   summary: 'Meteor wrapper for the NPM x-ray web scraper.',
   // URL to the Git repository containing the source code for this package.
@@ -11,7 +11,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'x-ray': '1.0.3'
+  'x-ray': '1.0.5'
 });
 
 Package.onUse(function(api) {
