@@ -1,3 +1,7 @@
+### No longer maintained
+
+Use `meteorhacks:npm` instead to include `x-ray` into your app.
+
 # Meteor X-Ray Scraper
 
 Meteor wrapper for the [NPM x-ray web scraper](https://github.com/lapwinglabs/x-ray).
